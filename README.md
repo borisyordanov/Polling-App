@@ -6,6 +6,8 @@
      `-----'`--' `---'  `----'  `---'  `--'    `--'`-------' `------'
     ----------------------------------------------------------------- 
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/borisyordanov/Polling-App.svg)](https://greenkeeper.io/)
+
 
 Hi there! Welcome to Cloud9 IDE!
 
